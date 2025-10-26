@@ -1,0 +1,23 @@
+# venv
+.venv/
+
+# bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# herramientas/IDE
+.vscode/
+.idea/
+
+# dist/artefactos
+dist/
+build/
+*.egg-info/
+
+# otros
+.DS_Store
+.env
